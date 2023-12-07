@@ -1,4 +1,5 @@
 广播电台,#genre#
+#EXTM3U
 #EXTINF:-1,北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 http://ls.qingting.fm/live/339.m3u8
