@@ -45,8 +45,6 @@ http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/150000
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="百视通",东方卫视
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="百视通",东方卫视
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="百视通",北京卫视
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="百视通",天津卫视
@@ -228,12 +226,6 @@ http://cyz31.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bi
 #EXTINF:-1 group-title="河北有线",CCTV15
 http://cyz31.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="河北有线",CCTV16
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1 group-title="河北有线",CCTV16
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
-#EXTINF:-1 group-title="河北有线",CCTV16
-http://111.20.40.165/PLTV/88888893/224/3221226921/index.m3u8
-#EXTINF:-1 group-title="河北有线",CCTV16
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 group-title="河北有线",CCTV17
 http://cyz31.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
@@ -253,8 +245,6 @@ http://cyz31.livehbindex.hbcatv.cn/live/500000206da44fde810a98a3d7848f82.m3u8?bi
 http://cyz31.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="河北有线",广西卫视
 http://cyz31.livehbindex.hbcatv.cn/live/50000020731348f098457f0080cdf72c.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="河北有线",北京卫视
-http://cyz31.livehbindex.hbcatv.cn/live/500000204b974d7f8ca5b13562b2d820.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="河北有线",海南卫视
 http://cyz31.livehbindex.hbcatv.cn/live/50000020741c4046820cd89d5ecbd401.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="河北有线",河北都市
@@ -295,8 +285,6 @@ http://cyz31.livehbindex.hbcatv.cn/live/50000020eeba44449d4f4913a2897e4e.m3u8?bi
 http://cyz31.livehbindex.hbcatv.cn/live/500000205dfa4e06bf7243e30e5182c8.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="河北有线",青海卫视
 http://cyz31.livehbindex.hbcatv.cn/live/50000020abdd46bb8007f3d793b418f2.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="河北有线",河北卫视
-http://cyz31.livehbindex.hbcatv.cn/live/5000002013f84d40a0393b8549e48805.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="河北有线",山西卫视
 http://cyz31.livehbindex.hbcatv.cn/live/50000020ed0a4b74afc7e496c1bcc45c.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="河北有线",陕西卫视
